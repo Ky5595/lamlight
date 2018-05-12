@@ -1,6 +1,6 @@
-LAMLIGHT_CONF='.lamlight.config'
+LAMLIGHT_CONF = '.lamlight.config'
 
-#error_message
+# error_message
 NO_LAMBDA_FUNCTION = " Lambda function with '{}' name does not exist."
 SCAFFOLDING_ERROR = 'Could not create project Scaffolding.'
 CODE_PULLING_ERROR = "cannot load the code base for '{}' lambda "
